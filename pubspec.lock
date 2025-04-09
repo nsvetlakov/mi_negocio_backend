@@ -90,7 +90,7 @@ packages:
     source: hosted
     version: "1.2.0"
   dart_frog_cli:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: dart_frog_cli
       sha256: "63fbe397ae2d311f199b4ad6eaf59ca9ae5bf640157e31631eccf5b3d1a35d11"

@@ -1,7 +1,6 @@
 import 'package:dart_frog/dart_frog.dart';
 import 'dart:convert';
 import '../../lib/services/business_service.dart';
-import '../../lib/models/business.dart';
 
 Future<Response> onRequest(RequestContext context) async {
   if (context.request.method == HttpMethod.get) {
