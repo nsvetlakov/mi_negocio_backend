@@ -1,4 +1,6 @@
 name: mi_negocio_backend
+
+version: 0.0.1+1
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
@@ -6,3 +8,4 @@ dependencies:
   dart_frog: ^1.0.0
   uuid: ^4.0.0
   dart_jsonwebtoken: ^2.7.0
+
