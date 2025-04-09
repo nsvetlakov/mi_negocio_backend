@@ -9,3 +9,5 @@ dependencies:
   uuid: ^4.0.0
   dart_jsonwebtoken: ^2.7.0
 
+dev_dependencies:
+  dart_frog_cli: ^1.2.5
