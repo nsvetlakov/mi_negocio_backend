@@ -10,4 +10,4 @@ dependencies:
   dart_jsonwebtoken: ^2.7.0
 
 dev_dependencies:
-  dart_frog_cli: ^1.2.5
+  dart_frog_cli: any
